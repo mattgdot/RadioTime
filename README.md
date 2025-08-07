@@ -26,6 +26,9 @@ The app is built entirely with **Jetpack Compose**, and follows the **MVVM** arc
 
 ---
 
+<h4>Download</h4>  
+<a href="https://github.com/mattgdot/RadioTime/releases/download/3.0-prod/app-release.apk"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a> 
+
 ## Tech stack
 
 - Kotlin  
