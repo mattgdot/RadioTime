@@ -26,16 +26,6 @@ The app is built entirely with **Jetpack Compose**, and follows the **MVVM** arc
 
 ---
 
-## Why I'm making it open source
-
-Google decided to remove RadioTime from Google Play because **one station** from the tens of thousands listed was streaming "inappropriate" content. That station was pulled from a public directory, like many others in the app, and obviously wasn’t handpicked.
-
-Instead of letting me fix it or remove the problematic stream, they **suspended the entire app**. I appealed the decision, but nothing changed. This is just another example of how **Google doesn’t really support developers**, and how quick they are to take down apps without context or communication.
-
-So I’m publishing the source code here to share the work I put into it, but also as a way to push back against that kind of treatment. Maybe someone finds it useful, maybe it inspires something better.
-
----
-
 ## Tech stack
 
 - Kotlin  
@@ -56,3 +46,21 @@ So I’m publishing the source code here to share the work I put into it, but al
 1. Clone the repository and open it in Android Studio.
 2. Open build.gradle.kts and add your AdMob App ID, Interstitial Ad ID, and RevenueCat API Key
 3. Sync the project and build.
+
+---
+
+## Screenshots
+<p align="center">
+  <img src="img/img1.jpg" width="240">
+  <img src="img/img2.jpg" width="240">
+  <img src="img/img3.jpg" width="240">
+</p>
+
+## Why I'm making it open source
+
+Google decided to remove RadioTime from Google Play because **one station** from the tens of thousands listed was streaming "inappropriate" content. That station was pulled from a public directory, like many others in the app, and obviously wasn’t handpicked.
+
+Instead of letting me fix it or remove the problematic stream, they **suspended the entire app**. I appealed the decision, but nothing changed. This is just another example of how **Google doesn’t really support developers**, and how quick they are to take down apps without context or communication.
+
+So I’m publishing the source code here to share the work I put into it, but also as a way to push back against that kind of treatment. Maybe someone finds it useful, maybe it inspires something better.
+
