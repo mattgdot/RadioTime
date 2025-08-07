@@ -26,7 +26,7 @@ The app is built entirely with **Jetpack Compose**, and follows the **MVVM** arc
 
 ---
 
-<h4>Download</h4>  
+<h2>Download</h2>  
 <a href="https://github.com/mattgdot/RadioTime/releases/download/3.0-prod/app-release.apk"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a> 
 
 ## Tech stack
@@ -66,4 +66,7 @@ Google decided to remove RadioTime from Google Play because **one station** from
 Instead of letting me fix it or remove the problematic stream, they **suspended the entire app**. I appealed the decision, but nothing changed. This is just another example of how **Google doesn’t really support developers**, and how quick they are to take down apps without context or communication.
 
 So I’m publishing the source code here to share the work I put into it, but also as a way to push back against that kind of treatment. Maybe someone finds it useful, maybe it inspires something better.
+
+<h2>Contribute</h2>  
+<a href="https://github.com/mattgdot/RadioStations">Update the repository with radio stations lists</a> 
 
