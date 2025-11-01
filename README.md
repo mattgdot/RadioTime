@@ -26,9 +26,6 @@ The app is built entirely with **Jetpack Compose**, and follows the **MVVM** arc
 
 ---
 
-<h2>Download</h2>  
-<a href="https://github.com/mattgdot/RadioTime/releases/download/3.0-prod/app-release.apk"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a> 
-
 ## Tech stack
 
 - Kotlin  
@@ -41,14 +38,6 @@ The app is built entirely with **Jetpack Compose**, and follows the **MVVM** arc
 - AdMob  
 - RevenueCat (In-App Purchases)  
 - Android Auto support  
-
----
-
-## How to setup
-
-1. Clone the repository and open it in Android Studio.
-2. Open build.gradle.kts and add your AdMob App ID, Interstitial Ad ID, and RevenueCat API Key
-3. Sync the project and build.
 
 ---
 
